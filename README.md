@@ -24,4 +24,10 @@ This is a simple, real-world ETL (Extract, Transform, Load) project built in pur
 ---
 
 ## 🧠 Files & Folders
+mini-covid-project/
+├── covid_etl.py ← main Python ETL script
+├── output/ ← folder for saved data + chart
+│ ├── covid_cleaned.csv
+│ ├── vaccinated_over_10m.csv
+│ └── top10_vaccinated.png
 
